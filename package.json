@@ -1,5 +1,5 @@
 {
-  "name": "facebook-bot",
+  "name": "Facebook-autoreply-personal",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "facebook-chat-api": "^1.1.0"
+    "facebook-chat-api": "^1.6.0"
   }
 }
